@@ -1,0 +1,13 @@
+
+
+  button{
+      background:whitesmoke;
+      width:120px;
+      height:60px;
+      font-size:24px;
+  }
+
+  button:hover{
+    background:teal;
+   
+}
